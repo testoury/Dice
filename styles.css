@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Inter:wght@100..900&family=Jura:wght@300&family=Nabla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Honk&family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Inter:wght@100..900&family=Jura:wght@300&family=Nabla&display=swap');
 
 .container {
   width: 70%;
@@ -18,19 +18,18 @@ body {
 
 h1 {
   margin: 30px;
-  font-family: "Nabla", system-ui;
-  text-shadow: 5px 0 #000000;
+  font-family: "Honk", system-ui;
   font-size: 8rem;
   color: #f200ff;
   font-variation-settings:
-  "EDPT" 100,
-  "EHLT" 12;
+  "MORF" 15,
+  "SHLN" 50;
 }
 
 p {
   font-size: 2rem;
   color: #051e15;
-  font-family: "Nabla", system-ui;
+  font-family: "Honk", system-ui;
 }
 
 img {
